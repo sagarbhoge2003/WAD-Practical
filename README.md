@@ -1,5 +1,5 @@
 
-GitHub Version Control Setup
+<h1>GitHub Version Control Setup</h1>
 Problem Statement
 Set up version control on GitHub using Git commands.
 
