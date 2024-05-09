@@ -1,7 +1,7 @@
 
 <h1>GitHub Version Control Setup</h1>
-Problem Statement
-Set up version control on GitHub using Git commands.
+<h2>Problem Statement</h2>
+<h3>Set up version control on GitHub using Git commands.</h3>
 
 Pushing First File
 git init
